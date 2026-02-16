@@ -1,2 +1,5 @@
 # Data_Science_notebooks
-Jupyter notebooks covering Python, Pandas, Machine Learning concepts, and Kaggle practice.
+# Data Science Notebook 📓
+
+This repository contains my structured notes, code practice, and projects as I prepare for Data Scientist and ML Engineer roles.
+
